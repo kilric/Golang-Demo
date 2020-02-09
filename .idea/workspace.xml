@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1363bb77-601b-47c6-8340-7d6f9863b2b5" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/array_slice_map/array/.idea/array.iml" beforeDir="false" afterPath="$PROJECT_DIR$/array_slice_map/array/.idea/array.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/array_slice_map/array/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/array_slice_map/array/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/array_slice_map/array/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/array_slice_map/array/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/array_slice_map/array/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/array_slice_map/array/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/array_slice_map/array/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/array_slice_map/array/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/array_slice_map/map/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/array_slice_map/map/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/array_slice_map/map/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" afterPath="$PROJECT_DIR$/array_slice_map/map/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/array_slice_map/map/.idea/map.iml" beforeDir="false" afterPath="$PROJECT_DIR$/array_slice_map/map/.idea/map.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/array_slice_map/map/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/array_slice_map/map/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/array_slice_map/map/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/array_slice_map/map/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/array_slice_map/map/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/array_slice_map/map/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/array_slice_map/slice/.idea/dictionaries/jiacoring.xml" beforeDir="false" afterPath="$PROJECT_DIR$/array_slice_map/slice/.idea/dictionaries/jiacoring.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/array_slice_map/slice/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/array_slice_map/slice/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/array_slice_map/slice/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/array_slice_map/slice/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/array_slice_map/slice/.idea/slice.iml" beforeDir="false" afterPath="$PROJECT_DIR$/array_slice_map/slice/.idea/slice.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/array_slice_map/slice/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/array_slice_map/slice/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/array_slice_map/slice/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/array_slice_map/slice/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package_toolchain/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/package_toolchain/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package_toolchain/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/package_toolchain/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package_toolchain/.idea/package_toolchain.iml" beforeDir="false" afterPath="$PROJECT_DIR$/package_toolchain/.idea/package_toolchain.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package_toolchain/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/package_toolchain/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package_toolchain/init/.idea/dictionaries/jiacoring.xml" beforeDir="false" afterPath="$PROJECT_DIR$/package_toolchain/init/.idea/dictionaries/jiacoring.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package_toolchain/init/.idea/init.iml" beforeDir="false" afterPath="$PROJECT_DIR$/package_toolchain/init/.idea/init.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package_toolchain/init/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/package_toolchain/init/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package_toolchain/init/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/package_toolchain/init/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package_toolchain/init/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/package_toolchain/init/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="GOROOT" path="/usr/local/go" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1TWDhGJ9mL6BiwoLmwqtqYeN0I0" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="configurable.Global.GOPATH.is.expanded" value="true" />
+    <property name="configurable.Project.GOPATH.is.expanded" value="true" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="last_opened_file_path" value="$USER_HOME$/work/Golang/src/Golang-exercise" />
+    <property name="settings.editor.selected.configurable" value="com.goide.configuration.GoLibrariesConfigurableProvider" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VgoProject">
+    <integration-enabled>true</integration-enabled>
+    <proxy>https://goproxy.cn,direct</proxy>
+  </component>
+</project>
