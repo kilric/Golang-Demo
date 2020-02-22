@@ -16,8 +16,8 @@ func main() {
 	//方法集的规则
 	/*
 	   values               methods Receivers
-	   T                     (t T)
-	   *T                    (t T) & (t *T)
+	   T                     (t  T)
+	   *T                    (t  T) & (t *T)
 	*/
 	/*
 	   Methods Receivers    Values
